@@ -1,5 +1,3 @@
-# utils.py
-
 def mostrar_tablero(palabra_secreta, letras_adivinadas):
     tablero = ''.join([letra if letra in letras_adivinadas else '_' for letra in palabra_secreta])
     print("Palabra: ", tablero)
