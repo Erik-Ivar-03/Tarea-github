@@ -21,7 +21,4 @@ def adivina_el_numero():
             print("Por favor, ingresa un número válido.")
 
 if __name__ == "__main__":
-    adivina_el_numero()
-
-
-##AWawa    
+    adivina_el_numero()  
