@@ -1,4 +1,3 @@
-# juego.py
 from palabras import obtener_palabra
 from utils import mostrar_tablero, pedir_letra
 
