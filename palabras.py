@@ -1,5 +1,3 @@
-# palabras.py
-
 import random
 
 def obtener_palabra():
